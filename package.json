@@ -1,6 +1,6 @@
 {
   "name": "lfger-d3",
-  "version": "0.0.1",
+  "version": "0.0.2",
   
   "description": "The code for lger.com d3 library, connects and utilizes diablo III api.",
   "keywords": ["lfger", "lfger.com", "diablo", "d3", "diabloIII", "bnet", "battle.net", "battlenet", "ehp", "dps", "calc", "algorithm"],

@@ -1,13 +1,13 @@
 {
   "name": "lfger-d3",
   "version": "0.0.3",
-  
+
   "description": "The code for lger.com d3 library, connects and utilizes diablo III api.",
   "keywords": ["lfger", "lfger.com", "diablo", "d3", "diabloIII", "bnet", "battle.net", "battlenet", "ehp", "dps", "calc", "algorithm"],
 
   "homepage": "http://lfger.com/",
   "bugs": {
-    "url": "http://github.com/cstockton/nodejs-lfger-d3/issues",
+    "url": "http://github.com/cstockton/node-lfger-d3/issues",
     "email": "chris@cstockton.org"
   },
 
@@ -16,7 +16,7 @@
 
   "repository": {
     "type": "git",
-    "url": "http://github.com/cstockton/nodejs-lfger-d3.git"
+    "url": "http://github.com/cstockton/node-lfger-d3.git"
   },
 
   "engines": {
@@ -28,13 +28,8 @@
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --reporter dot --bail test/acceptance/*.js"
   },
-  
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/cstockton/nodejs-lfger-d3/raw/master/LICENSE"
-    }
-  ],
+
+  "license": "MIT",
 
   "dependencies": {
     "request": "~2.12.x"
